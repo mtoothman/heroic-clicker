@@ -1,10 +1,7 @@
 # Heroic Clicker 
 Version: 3.3
-Author: Shawn Goertzen (https://github.com/sgoertzen) (Adapted from: http://github.com/Andrux51)
+Author: Matt Toothman (adapted from https://github.com/sgoertzen) (Adapted from: http://github.com/Andrux51)
 
-![Screenshot of UI](https://raw.githubusercontent.com/sgoertzen/heroic-clicker/master/Screenshot.png)
-
-Heroic Clicker will play the steam version of Clicker Heroes for you.  
 Features:
 - Can play the entire game for you forever
 - Automatically clicks enemies and levels up your heroes
@@ -16,12 +13,6 @@ Features:
 - Works well with the ancient Iris
 - Automatically enables progression mode if a failed boss fight turns it off
 - Stores settings in configuration file between runs
-
-## Instructions (requires 64bit windows):
-1. Download the latest release from https://github.com/sgoertzen/heroic-clicker/releases
-2. Extract the zip file to a folder of your choice
-3. Double click the HeroicClicker.exe
-4. Profit!
 
 ## Hotkeys
 - F11 - Pause (press F11 to resume)
